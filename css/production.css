@@ -95,10 +95,12 @@ p {
   letter-spacing: 0.05em;
   color: #53627c;
   max-width: 1200px;
-  text-align: left;
-  display:block;
-  padding-left: 15%;
+  text-align: center;
+  margin: 0 auto; /* Center the block element */
+  padding: 0; /* Remove any padding */
 }
+
+
 
 ul {
   list-style-type: none;

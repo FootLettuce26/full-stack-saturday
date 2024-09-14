@@ -14,8 +14,21 @@
     </div>
     <div>
         <p><?php echo "Welcome to the list" ?></p>
-
     </div>
+    <table>
+        <tr>
+            <th>Completed?</th>
+            <th>Task Name</th>
+            <th>Due Date</th>
+            <th>Author</th>
+        </tr>
+        <tr>
+            <td>Yes</td>
+            <td>Do the dishes</td>
+            <td>right now</td>
+            <td>Caleb</td>
+        </tr>
+    </table>
 </body>
 
 </html>

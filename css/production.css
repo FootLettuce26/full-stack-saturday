@@ -100,6 +100,24 @@ p {
   padding: 0; /* Remove any padding */
 }
 
+table {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #53627c;
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto; /* Center the block element */
+  border: 1px solid;
+  border-style: outset;
+  border-spacing: 10px;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 10px; /* Adjust the padding as needed */
+  border: 1px solid black; /* Add borders to cells */
+}
 
 
 ul {

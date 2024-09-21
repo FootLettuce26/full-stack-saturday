@@ -20,7 +20,6 @@
             <th>Completed?</th>
             <th>Task Name</th>
             <th>Due Date</th>
-            <th>Author</th>
             <th>Priority</th> <!-- display this but have an option to sort it? -->
             <!-- probably don't need to show the ID for the task (primary key)-->
         </tr>
@@ -28,7 +27,6 @@
             <td>Yes</td>
             <td>Do the dishes</td>
             <td>right now</td>
-            <td>Caleb</td>
             <td>3</td> <!-- 0-5 scale? -->
         </tr>
     </table>
